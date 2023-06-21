@@ -6,3 +6,6 @@ ____
 Ярлык для запуска main.exe 
 
 Скачать необходимо всю папку
+
+
+create ScherbakovM;) contacts https://t.me/Mik_Shcherbakov
